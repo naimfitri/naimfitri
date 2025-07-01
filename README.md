@@ -25,7 +25,7 @@ Built with:
 ---
 
 #### 📫 Let’s Connect!
-- LinkedIn: [linkedin.com/in/naim-fitri](www.linkedin.com/in/naim-fitri)
+- LinkedIn: www.linkedin.com/in/naim-fitri
 - Email: naimfitriabdulhalim@gmail.com 
 ---
 
