@@ -1,26 +1,44 @@
-### Hi there 👋 I'm Naim Fitri!
+# 👋 Hi, I'm Naim Fitri
 
 🎓 Final Year Software Engineering Student  
-🛠️ Passionate about building useful apps that solve real-world problems  
-📱 Focused on Flutter, Firebase, Node.js, Laravel, and AI integration  
+💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast  
+📍 Based in Malaysia  
 
 ---
 
-#### 🚀 Current Project: HandyGO  
-A mobile and web platform that connects users with nearby handymen.  
-Built with:
-- Flutter for the client and handyman app
-- Laravel for the admin dashboard
-- Node.js backend for real-time tracking and FCM notifications
-- RASA AI chatbot to classify handyman jobs using natural language
+### 🔧 Tech Stack
+
+- **Languages:** Dart, JavaScript, PHP, Python  
+- **Mobile & Web:** Flutter, Laravel, React  
+- **Backend:** Node.js, Express.js  
+- **Database:** Firebase (Realtime DB), Firestore, MySQL  
+- **AI/ML:** Python, scikit-learn, RASA (NLP Chatbots)  
+- **Tools:** Docker, Git, VS Code, XAMPP  
 
 ---
 
-#### 🧠 I’m currently learning
-- Laravel + Firebase integration  
-- RASA custom actions & dialogue management  
-- Docker and Linux system optimization (using Arch + Hyprland)
+### 🚀 Final Year Project: HandyGO
+
+**HandyGO** is a mobile and web platform for discovering and booking nearby handymen.  
+Built using:
+- 📱 Flutter (client + handyman app)
+- 🖥️ Laravel (admin dashboard)
+- 🔧 Node.js backend (real-time job tracking + notifications)
+- 🤖 RASA AI chatbot (job classification & smart suggestions)
+- 🔥 Firebase Realtime Database + FCM
+
+> Empowering users with AI-driven, on-demand handyman services.
+
+---
+
+### 📚 Currently Learning
+
+- Laravel + Firebase Realtime DB integration  
+- Advanced NLP with RASA  
+- Backend optimization with Docker  
+- CI/CD workflows for full-stack apps
 - React
+- Linux (Arch + Hyprland)
 
 ---
 
