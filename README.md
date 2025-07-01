@@ -44,7 +44,8 @@ Built using:
 
 #### 📫 Let’s Connect!
 - LinkedIn: www.linkedin.com/in/naim-fitri
-- Email: naimfitriabdulhalim@gmail.com 
+- Email: naimfitriabdulhalim@gmail.com
+- Portfolio: https://portfolio-delta-sooty-74.vercel.app/
 ---
 
 > "Keep building. Keep learning. Keep sharing."
